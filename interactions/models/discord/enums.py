@@ -215,7 +215,7 @@ class Intents(DiscordIntFlag):  # type: ignore
         cls,
         guilds=False,
         guild_members=False,
-        guild_bans=False,
+        guild_moderation=False,
         guild_emojis_and_stickers=False,
         guild_integrations=False,
         guild_webhooks=False,
